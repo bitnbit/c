@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669551381 source:c:\users\ldh32\documents\library\big\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

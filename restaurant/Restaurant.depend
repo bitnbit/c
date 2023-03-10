@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1434464233 source:f:\c program design\new projects\restaurant\restaurant.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1434464234 source:c:\users\ldh32\documents\library\restaurant\restaurant.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+

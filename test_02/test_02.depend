@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668131941 source:c:\users\ldh32\documents\library\test_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669726393 source:c:\users\ldh32\documents\library\e04\restaurant.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670060630 source:c:\users\ldh32\documents\library\ic2\01.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

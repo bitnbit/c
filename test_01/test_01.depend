@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665463400 source:c:\users\ldh32\documents\test_01\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668129087 source:c:\users\ldh32\documents\library\test_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
